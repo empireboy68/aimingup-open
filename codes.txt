@@ -1,0 +1,4 @@
+# AIMing Up: the open book, one code per month
+# A line is added on the last day of the month and never edited.
+# date | code | what the list held
+2026-10-19 | 87f275051d8265270809d01671ca5826dcfdba98494a4ada960f04cfe01bbd39 | the list before any founder was issued, 0 founders

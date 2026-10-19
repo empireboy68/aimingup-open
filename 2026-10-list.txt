@@ -1,0 +1,3 @@
+# AIMing Up founders list
+# One founder per line, in this order:
+# number | name | school | club confirmed by | date issued
